@@ -49,5 +49,3 @@ The final composite signal demonstrates consistent predictive power across the s
 - matplotlib  
 
 ---
-
-## Repository Structure
