@@ -49,3 +49,8 @@ The final composite signal demonstrates consistent predictive power across the s
 - matplotlib  
 
 ---
+
+## Dataset
+
+The dataset used for this project was provided as part of a quantitative research exercise and is not publicly available.
+The notebook demonstrates the full research workflow assuming access to the dataset.
